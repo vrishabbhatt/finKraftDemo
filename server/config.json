@@ -1,0 +1,11 @@
+{
+    "port": 3001,
+    "zohoCreds": {
+        "authToken": "db36e02a50b57e081efe533a8a0f834b",
+        "organisationId": "649249007"
+    },
+    "required_fields": [
+        "contact_id", "contact_name", "company_name", "contact_type", "status", "payment_terms", "payment_terms_label", "currency_id", "currency_code",
+        "outstanding_receivable_amount",  "unused_credits_receivable_amount", "first_name", "last_name", "email", "phone", "mobile"
+    ]
+}
